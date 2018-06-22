@@ -1,0 +1,51 @@
+.container-fluid{
+  background-color: #CCD269;
+}
+
+.container{
+  background-color: #F4F9A4;
+  padding: 4%;
+}
+
+.container header nav h1{
+  text-align: center;
+  padding: 3%;
+  color:#757B13;
+}
+
+.cont_boton{
+  text-align: center;
+  padding: 4%;
+}
+
+.btn{
+  background-color: #757B13;
+  color:#fff;
+}
+
+.btn:hover {
+  background-color: #CCD269;
+  color:#000;
+}
+
+.form-group{
+  padding: 1%;
+  margin:1%;
+  border-radius: 7px;
+  border: 2px solid #A1A838;
+}
+
+.fondo_tareas{
+  background:#A1A838;
+  padding: 2%;
+  border-radius: 7px;
+  margin-bottom:3%; 
+}
+
+.fondo_lista{
+  background:#757B13;
+  margin: 1%;
+  padding: 2%;
+  border-radius: 7px;
+  border:3px solid #A1A838;
+}
